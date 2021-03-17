@@ -1,0 +1,5 @@
+{
+    "uuid": "Minecraft player UUID",
+    "mentionChannel": "ID of the Discord channel where bot will send mention messages.",
+    "userIDToMention": "ID of Discord user to mention"
+}
